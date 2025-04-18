@@ -45,5 +45,5 @@ My technical expertise includes blockchain development with Solidity, Hardhat, a
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/seyeong-han/)
-- [Website](link)
+- [Website](https://jhin93.github.io/portfolio/)
 - Email: scene1993@gmail.com
