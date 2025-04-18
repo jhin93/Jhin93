@@ -35,14 +35,12 @@ Previously, at Feelway, I designed and developed over 20 event landing pages, in
 My technical expertise includes blockchain development with Solidity, Hardhat, and Thirdweb, and front-end development using NextJS, JavaScript, TypeScript, HTML, and CSS. I am passionate about exploring blockchain's potential to safeguard personal data and intellectual property, aiming to create decentralized solutions that empower users.
 
 ## 🛠️ Skills & Technologies
-- Programming: Python, CUDA, JavaScript, C++, Java, ReactJS, Vue.js
-- Tools & Libraries: Neo4j, MLFlow, OpenCV, Open-MMLab  
+- Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
+- UI: HTML, Sass, CSS
+- Tools & Libraries: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
+- Cooperation: Github, Slack
+- Documentation : Jira, Confluence
 
-## 🌟 Projects
-### project 1
-
-
-### project 2
 
 ## 📫 Get in Touch
 
