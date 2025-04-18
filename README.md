@@ -1,7 +1,7 @@
 # Jinkyung Kim - Software Developer
 
 ## Work Experiences
-### CONNECT Digital Stamp - A copyright enhancement feature implemented by a blockchain development  - [CONNECT Digital Stamp](https://connect.clo-set.com/nft)  
+### Digital Stamp - Blockchain Copyright protection - [CONNECT Digital Stamp](https://connect.clo-set.com/nft)  
 <a href="">
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
