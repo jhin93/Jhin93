@@ -2,15 +2,16 @@
 
 ## Work Experiences
 ### 1. CLOVirtualFashion (June 2022 ~ Jan 2025)
-### Digital Stamp - Blockchain Copyright protection - [CONNECT Digital Stamp](https://connect.clo-set.com/nft)  
-<a href="">
+### Digital Stamp: Blockchain Copyright protection - [CONNECT Digital Stamp](https://connect.clo-set.com/nft)  
+<a href="https://connect.clo-set.com/nft">
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
 
-### FeelWay
-<a href="">
-    
-</a>
+### 2. FEELWAY (Sep 2020 ~ April 2021)
+### UI Developing: Develop and maintain web platform - [FEELWAY](https://www.feelway.com/)  
+<a href="https://www.feelway.com/">
+    <img width="1725" alt="feelway" src="https://github.com/user-attachments/assets/560e30a0-efe0-40b8-8fdf-5365e2366c81" />
+</a>  
 
 ---
 
