@@ -15,7 +15,7 @@
 
 ---
 
-### [Resume](Link)
+### [Resume](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true)
 
 Welcome to my GitHub!  
 
