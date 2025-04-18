@@ -28,11 +28,11 @@ With over three years of professional experience, I specialize in blockchain and
 My mission is to explore and expand the diverse applications of blockchain technology in everyday life, focusing on strengthening the protection of personal information. I am committed to developing secure, decentralized solutions that empower individuals to maintain control over their data in an increasingly digital world.
 
 ## 🚀 About Me
-With over three years of experience in blockchain and front-end development, I have a strong foundation in developing secure smart contracts and building responsive web applications. At CLOVirtualFashion, I developed and deployed NFT smart contracts on Polygon's main network, issuing NFTs for over 4,000 3D artworks to protect copyright. I also engineered the 'Order' feature for the back-office platform and reduced smart contract deployment errors by 25% through automated testing with Remix and Thirdweb.
+I’m a Master’s student in Information Technology at the University of Technology Sydney, majoring in Enterprise Software Development, with over 3 years of experience in blockchain and front-end development. I specialize in NFT smart contracts for copyright protection and building responsive web applications using NextJS, TypeScript, JavaScript, HTML, and CSS.
 
-Previously, at Feelway, I designed and developed over 20 event landing pages, increasing user engagement by 15% and enhancing mobile responsiveness, reducing drop-off rates by 10%.
+At CLOVirtualFashion, I developed NFT smart contracts on Polygon’s main network, issuing NFTs for over 4,000 3D artworks to strengthen copyright protection. I built the CONNECT marketplace front-end, implementing the 'Order' feature and optimizing performance with Lighthouse, achieving scores above 80 in performance and accessibility. I also reduced smart contract deployment errors by 25% using Remix and Thirdweb.
 
-My technical expertise includes blockchain development with Solidity, Hardhat, and Thirdweb, and front-end development using NextJS, JavaScript, TypeScript, HTML, and CSS. I am passionate about exploring blockchain's potential to safeguard personal data and intellectual property, aiming to create decentralized solutions that empower users.
+Previously, at Feelway, I created over 20 event landing pages, increasing user engagement by 15% and enhancing mobile responsiveness, reducing drop-off rates by 10%. Proficient in Solidity and front-end technologies, I’m passionate about delivering innovative solutions.
 
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
@@ -40,6 +40,7 @@ My technical expertise includes blockchain development with Solidity, Hardhat, a
 - Tools & Libraries: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
 - Cooperation: Github, Slack
 - Documentation : Jira, Confluence
+- Currently Focusing: Python, Java, Golang
 
 
 ## 📫 Get in Touch
