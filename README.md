@@ -1,4 +1,4 @@
-# Jinkyung Kim - Software Developer
+# Jinkyung Kim_Software Developer
 
 ## Work Experiences
 ### 1. CLOVirtualFashion (June 2022 ~ Jan 2025)
