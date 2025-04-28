@@ -8,7 +8,9 @@
 </a>  
 
 #### Blockchain project: 'Digital Stamp'
-Blockchain development was to modify and deploy an ERC-721 smart contract, and based on this smart contract, issue the customer's 3D artwork information in the form of an NFT and transfer it to the customer's wallet, thereby strengthening the copyright of the artwork. The method is to limit the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
+'Digital Stamp' feature issues the customer's 3D artwork information in the form of an NFT and transfers it to the customer's wallet.
+
+This blockchain feature was to modify and deploy an ERC-721 smart contract, based on a modified smart contract that was newly deployed on the blockchain main network. Thereby strengthening the copyright of the artwork. The method is to limit the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
 
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
 ### UI Developing | Develop and maintain web platform - [FEELWAY](https://www.feelway.com/)  
