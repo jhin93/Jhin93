@@ -7,8 +7,7 @@
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
 
-Main blockchain project: 'Digital Stamp'
-
+#### Blockchain project: 'Digital Stamp'
 Blockchain development was to modify and deploy an ERC-721 smart contract, and based on this smart contract, issue the customer's 3D artwork information in the form of an NFT and transfer it to the customer's wallet, thereby strengthening the copyright of the artwork. The method is to limit the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
 
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
