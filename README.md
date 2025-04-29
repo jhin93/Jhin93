@@ -1,7 +1,9 @@
 # Jinkyung Kim_Software Developer
 
 ## Work Experiences
-### CLOVirtualFashion (June 2022 ~ Jan 2025) | Front-End Developer & Smart Contract Engineer
+### CLOVirtualFashion (June 2022 ~ Jan 2025)
+#### Front-End Developer & Smart Contract Engineer
+
 <a href="https://connect.clo-set.com/nft">
     <img width="1725" alt="connect-closet" src="https://github.com/user-attachments/assets/7660a7eb-7a75-467c-b83b-055571ea8120" />
 </a>  
