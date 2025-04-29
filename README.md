@@ -1,14 +1,14 @@
 # Jinkyung Kim_Software Developer
 
-## Work Experiences
-### CLOVirtualFashion (June 2022 ~ Jan 2025)
+## 🧑🏻‍💻 Work Experiences
+### ❶ CLOVirtualFashion (June 2022 ~ Jan 2025)
 #### Front-End Developer & Smart Contract Engineer
 
 <a href="https://connect.clo-set.com/nft">
     <img width="1725" alt="connect-closet" src="https://github.com/user-attachments/assets/7660a7eb-7a75-467c-b83b-055571ea8120" />
 </a>  
 
-### FEELWAY (Sep 2020 ~ April 2021)
+### ❷ FEELWAY (Sep 2020 ~ April 2021)
 ### UI Developer
 <a href="https://www.feelway.com/">
     <img width="1725" alt="feelway" src="https://github.com/user-attachments/assets/560e30a0-efe0-40b8-8fdf-5365e2366c81" />
