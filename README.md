@@ -8,9 +8,9 @@
 </a>  
 
 #### Blockchain project: 'Digital Stamp'
-'Digital Stamp' feature issues the customer's 3D artwork information in the form of an NFT and transfers it to the customer's wallet.
+'Digital Stamp' feature issues the customer's 3D artwork information as an NFT and transfers it to the customer's wallet.
 
-This blockchain feature was to modify and deploy an ERC-721 smart contract, based on a modified smart contract that was newly deployed on the blockchain main network. Thereby strengthening the copyright of the artwork. The method is to limit the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
+
 
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
 ### UI Developing | Develop and maintain web platform - [FEELWAY](https://www.feelway.com/)  
@@ -37,6 +37,15 @@ I’m a Master’s student in Information Technology at the University of Techno
 At CLOVirtualFashion, I developed NFT smart contracts on Polygon’s main network, issuing NFTs for over 4,000 3D artworks to strengthen copyright protection. I built the CONNECT marketplace front-end, implementing the 'Order' feature and optimizing performance with Lighthouse, achieving scores above 80 in performance and accessibility. I also reduced smart contract deployment errors by 25% using Remix and Thirdweb.
 
 Previously, at Feelway, I created over 20 event landing pages, increasing user engagement by 15% and enhancing mobile responsiveness, reducing drop-off rates by 10%. I’m passionate about delivering innovative solutions and proficient in Solidity and front-end technologies.
+
+## 🌟 Projects
+### Digital Stamp | Blockchain Copyright protection for User of 3D Graphic Asset Platform 'CONNECT' - [CONNECT](https://connect.clo-set.com)  
+<a href="https://connect.clo-set.com/nft">
+    <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
+</a>  
+
+This blockchain feature was to modify and deploy an ERC-721 smart contract, based on a modified smart contract that was newly deployed on the blockchain main network. Thereby strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
+
 
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
