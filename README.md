@@ -7,11 +7,6 @@
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
 
-#### Blockchain project: 'Digital Stamp'
-'Digital Stamp' feature issues the customer's 3D artwork information as an NFT and transfers it to the customer's wallet.
-
-
-
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
 ### UI Developing | Develop and maintain web platform - [FEELWAY](https://www.feelway.com/)  
 <a href="https://www.feelway.com/">
@@ -43,6 +38,9 @@ Previously, at Feelway, I created over 20 event landing pages, increasing user e
 <a href="https://connect.clo-set.com/nft">
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
+
+#### Blockchain project: 'Digital Stamp'
+'Digital Stamp' feature issues the customer's 3D artwork information as an NFT and transfers it to the customer's wallet.
 
 This blockchain feature was to modify and deploy an ERC-721 smart contract, based on a modified smart contract that was newly deployed on the blockchain main network. Thereby strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
 
