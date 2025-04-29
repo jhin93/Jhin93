@@ -5,6 +5,9 @@
 ### Digital Stamp | Blockchain Copyright protection for User of 3D Graphic Asset Platform 'CONNECT' - [CONNECT](https://connect.clo-set.com)  
 <a href="https://connect.clo-set.com/nft">
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
+    <img width="1725" alt="connect-closet" src="https://github.com/user-attachments/assets/7660a7eb-7a75-467c-b83b-055571ea8120" />
+
+
 </a>  
 
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
