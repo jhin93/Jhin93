@@ -8,14 +8,14 @@
 </a>  
 
 ### FEELWAY (Sep 2020 ~ April 2021)
-### UI Developer | Develop and maintain web platform - [FEELWAY](https://www.feelway.com/)  
+### UI Developer
 <a href="https://www.feelway.com/">
     <img width="1725" alt="feelway" src="https://github.com/user-attachments/assets/560e30a0-efe0-40b8-8fdf-5365e2366c81" />
 </a>  
 
 ---
 
-### [Resume](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true)
+### Resume | [Resume](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true)
 
 ## Welcome to my GitHub!  
 
