@@ -8,11 +8,26 @@
     <img width="1725" alt="connect-closet" src="https://github.com/user-attachments/assets/7660a7eb-7a75-467c-b83b-055571ea8120" />
 </a>  
 
+During my time at CLOVirtualFashion, 
+I contributed to both front-end development and blockchain solutions to enhance the company’s services and protect customer assets. My key achievements include:
+
+#### Front-End Development: 
+Developed and implemented the 'Order' feature in the 'CONNECT' back-office platform, streamlining the order management process by simplifying and organizing order occurrences. Optimized the main service using Google Chrome’s 'Lighthouse' tool, improving performance and accessibility scores to over 80 in these categories through bug fixes and code refactoring.
+
+#### Blockchain Development: 
+Modified and deployed the EC721 smart contract to issue unique NFTs for customers’ 3D artworks, strengthening copyright protection. Implemented a one-time transmission mechanism to ensure each NFT is permanently tied to the customer’s wallet, providing a verifiable record of ownership that enables customers to claim copyright even in cases of artwork theft.
+
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
 ### UI Developer
 <a href="https://www.feelway.com/">
     <img width="1725" alt="feelway" src="https://github.com/user-attachments/assets/560e30a0-efe0-40b8-8fdf-5365e2366c81" />
 </a>  
+
+At Feelway, I contributed to the development and enhancement of a luxury brand trading platform, focusing on front-end development and UI/UX improvements. 
+
+#### Front-End Development: 
+My core responsibilities included designing and developing functional pages and event landing pages using HTML, CSS, and JavaScript. I collaborated closely with the design team to ensure pixel-perfect UI implementation and responsive design across various devices while maintaining the web environment and user interfaces to deliver a seamless user experience. Key achievements include developing over 20 event landing pages, boosting user engagement by 15% during promotional campaigns, and improving mobile responsiveness, which reduced user drop-off rates by 10% on mobile devices.
+
 
 ---
 
