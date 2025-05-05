@@ -9,7 +9,7 @@
 </a>  
 
 During my time at CLOVirtualFashion, 
-I contributed to both front-end development and blockchain solutions to enhance the company’s services and protect customer assets. My key achievements include:
+I contributed to front-end development and blockchain solutions to enhance the company’s services and protect customer assets. My key achievements include:
 
 #### Front-End Development: 
 Developed and implemented the 'Order' feature in the 'CONNECT' back-office platform, streamlining the order management process by simplifying and organizing order occurrences. Optimized the main service using Google Chrome’s 'Lighthouse' tool, improving performance and accessibility scores to over 80 in these categories through bug fixes and code refactoring.
@@ -23,7 +23,7 @@ Modified and deployed the EC721 smart contract to issue unique NFTs for customer
     <img width="1725" alt="feelway" src="https://github.com/user-attachments/assets/560e30a0-efe0-40b8-8fdf-5365e2366c81" />
 </a>  
 
-At Feelway, I contributed to the development and enhancement of a luxury brand trading platform, focusing on front-end development and UI/UX improvements. 
+At Feelway, I contributed to developing and enhancing a luxury brand trading platform, focusing on front-end development and UI/UX improvements. 
 
 #### Front-End Development: 
 My core responsibilities included designing and developing functional pages and event landing pages using HTML, CSS, and JavaScript. I collaborated closely with the design team to ensure pixel-perfect UI implementation and responsive design across various devices while maintaining the web environment and user interfaces to deliver a seamless user experience. Key achievements include developing over 20 event landing pages, boosting user engagement by 15% during promotional campaigns, and improving mobile responsiveness, which reduced user drop-off rates by 10% on mobile devices.
