@@ -60,7 +60,6 @@ Previously, at Feelway, I created over 20 event landing pages, increasing user e
 
 This blockchain feature was used to modify and deploy an ERC-721 smart contract based on a modified smart contract deployed on the 'Polygon' main network. Thereby strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, so that it is permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing in the form of an NFT can claim copyright.
 
-
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
 - UI: HTML, Sass, CSS
