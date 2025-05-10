@@ -1,8 +1,6 @@
 # Jinkyung Kim_Software Developer
 
 ## Resume | [Resume](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true) <- Click!
-## Resume | <a href="https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true" target="_blank">Resume</a> <- Click!
-## Resume | [Resume](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true){:target="_blank" rel="noopener"}
 
 ## 🧑🏻‍💻 Work Experiences
 ### 1. CLOVirtualFashion (June 2022 ~ Jan 2025)
