@@ -65,7 +65,7 @@ This blockchain feature was used to modify and deploy an ERC-721 smart contract 
 - UI: HTML, Sass, CSS
 - Tools & Libraries: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
 - Cooperation: Github, Slack
-- Documentation : Jira, Confluence
+- Documentation: Jira, Confluence
 - Currently Focusing: Python, Java, Golang
 
 ---
