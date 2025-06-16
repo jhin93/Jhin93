@@ -63,10 +63,10 @@ This blockchain feature was used to modify and deploy an ERC-721 smart contract 
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
 - UI: HTML, Sass, CSS
-- Tools & Libraries: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
+- Libraries & Tools: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
 - Cooperation: Github, Slack
 - Documentation: Jira, Confluence
-- Currently Focusing: Python, Java, Golang
+- Currently Focusing: Python, C#, .NET
 
 ---
 
