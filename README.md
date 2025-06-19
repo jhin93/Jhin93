@@ -47,7 +47,7 @@ Master’s student in Information Technology at the University of Technology Syd
 
 At CLOVirtualFashion, I developed NFT smart contracts on Polygon’s main network, issuing NFTs for over 4,000 3D artworks to strengthen copyright protection. I built the CONNECT marketplace front-end, implementing the 'Order' feature and optimizing performance with Lighthouse, achieving scores above 80 in performance and accessibility. I also reduced smart contract deployment errors by 25% using Remix and Thirdweb.
 
-Previously, at Feelway, I created over 20 event landing pages, increasing user engagement by 15% and enhancing mobile responsiveness, reducing drop-off rates by 10%. I’m passionate about delivering innovative solutions and proficient in Solidity and front-end technologies.
+At Feelway, I created over 20 event landing pages, increasing user engagement by 15% and enhancing mobile responsiveness, reducing drop-off rates by 10%. I’m passionate about delivering innovative solutions and proficient in Solidity and front-end technologies.
 
 ## 🌟 Projects
 ### Digital Stamp | Blockchain Copyright protection for User of 3D Graphic Asset Platform 'CONNECT' - [CONNECT](https://connect.clo-set.com)  
