@@ -30,7 +30,6 @@ At Feelway, I contributed to developing and enhancing a luxury brand trading pla
 #### Front-End Development: 
 My core responsibilities included designing and developing functional pages and event landing pages using HTML, CSS, and JavaScript. I collaborated closely with the design team to ensure pixel-perfect UI implementation and responsive design across various devices while maintaining the web environment and user interfaces to deliver a seamless user experience. Key achievements include developing over 20 event landing pages, boosting user engagement by 15% during promotional campaigns, and improving mobile responsiveness, which reduced user drop-off rates by 10% on mobile devices.
 
-
 ---
 
 ## Welcome to my GitHub!  
