@@ -50,7 +50,7 @@ At Feelway, I created over 20 event landing pages, increasing user engagement by
 
 ## 🌟 Projects
 ### Digital Stamp | Blockchain Copyright protection for User of 3D Graphic Asset Platform 'CONNECT' - [CONNECT](https://connect.clo-set.com)  
-<a href="https://connect.clo-set.com/nft">
+<a href="https://connect.clo-set.com">
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
 
