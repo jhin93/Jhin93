@@ -13,10 +13,10 @@
 During my time at CLOVirtualFashion, 
 I contributed to front-end development and blockchain solutions to enhance the company’s services and protect customer assets. My key achievements include:
 
-#### Front-End Development: 
+#### 🖥️ Front-End Development: 
 Developed and implemented the 'Order' feature in the 'CONNECT' back-office platform, streamlining the order management process by simplifying and organizing order occurrences. Optimized the main service using Google Chrome’s 'Lighthouse' tool, improving performance and accessibility scores to over 80 in these categories through bug fixes and code refactoring.
 
-#### Blockchain Development: 
+#### ⛓️‍💥 Blockchain Development: 
 Modified and deployed the EC721 smart contract to issue unique NFTs for customers’ 3D artworks, strengthening copyright protection. Implemented a one-time transmission mechanism to ensure each NFT is permanently tied to the customer’s wallet, providing a verifiable record of ownership that enables customers to claim copyright even in cases of artwork theft.
 
 ### 2. FEELWAY (Sep 2020 ~ April 2021)
