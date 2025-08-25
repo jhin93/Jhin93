@@ -27,7 +27,7 @@ Modified and deployed the EC721 smart contract to issue unique NFTs for customer
 
 At Feelway, I contributed to the development and enhancement of a luxury brand trading platform, focusing on front-end development and UI/UX improvements. 
 
-#### Front-End Development: 
+#### 🖥️ Front-End Development: 
 My core responsibilities included designing and developing functional pages and event landing pages using HTML, CSS, and JavaScript. I collaborated closely with the design team to ensure pixel-perfect UI implementation and responsive design across various devices while maintaining the web environment and user interfaces to deliver a seamless user experience. Key achievements include developing over 20 event landing pages, boosting user engagement by 15% during promotional campaigns, and enhancing mobile responsiveness, which resulted in a 10% reduction in user drop-off rates on mobile devices.
 
 ---
