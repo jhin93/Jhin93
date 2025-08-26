@@ -57,15 +57,15 @@ At Feelway, I created over 20 event landing pages, increasing user engagement by
 #### Blockchain project: 'Digital Stamp'
 'Digital Stamp' feature issues the customer's 3D artwork information as an NFT and transfers it to the customer's wallet.
 
-This blockchain feature was used to modify and deploy an ERC-721 smart contract based on a modified smart contract deployed on the 'Polygon' main network, strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is deducted to 0, permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing as an NFT can claim copyright.
+This blockchain feature was used to modify and deploy an ERC-721 smart contract based on a modified smart contract deployed on the 'Polygon' main network, strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is permanently deducted to 0 and permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing as an NFT can claim copyright.
 
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
 - UI: HTML, Sass, CSS
 - Libraries & Tools: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
-- Cooperation: Github, Slack
+- Cooperation: GitHub, Slack
 - Documentation: Jira, Confluence
-- Currently Focusing: Python, C#, .NET
+- Currently Focusing: Python, .NET
 
 ---
 
