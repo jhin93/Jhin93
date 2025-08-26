@@ -71,6 +71,6 @@ This blockchain feature was used to modify and deploy an ERC-721 smart contract 
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/seyeong-han/)
+- [LinkedIn](https://www.linkedin.com/in/jinkyung-kim-64a28b1b2/)
 - [Website](https://jhin93.github.io/portfolio/)
 - Email: scene1993@gmail.com
