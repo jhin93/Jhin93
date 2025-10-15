@@ -38,9 +38,6 @@ I'm Jinkyung Kim, an international Master's student in the Information Technolog
 
 With over three years of professional experience, I specialize in blockchain and front-end development. My work includes developing and deploying NFT smart contracts to protect the copyright of 3D design assets, ensuring secure and permanent ownership through blockchain technology. I also have extensive experience building responsive web applications using NextJS, ReactJS, and other front-end technologies.
 
-## Mission
-My mission is to explore and expand the diverse applications of blockchain technology in everyday life, focusing on strengthening the protection of personal information. I am committed to developing secure, decentralized solutions that empower individuals to maintain control over their data in an increasingly digital world.
-
 ## 🚀 About Me
 Master’s student in Information Technology at the University of Technology Sydney, majoring in Enterprise Software Development. I have over three years of experience in blockchain and front-end development. I specialize in NFT smart contracts for copyright protection and building responsive web applications using NextJS, TypeScript, JavaScript, HTML, and CSS.
 
@@ -58,6 +55,9 @@ At Feelway, I created over 20 event landing pages, increasing user engagement by
 'Digital Stamp' feature issues the customer's 3D artwork information as an NFT and transfers it to the customer's wallet.
 
 This blockchain feature was used to modify and deploy an ERC-721 smart contract based on a modified smart contract deployed on the 'Polygon' main network, strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is permanently deducted to 0 and permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing as an NFT can claim copyright.
+
+## Project Mission
+The project's mission is to explore and expand the diverse applications of blockchain technology in user experience, with a focus on enhancing the protection of personal information. I committed to developing secure, decentralized solutions that empower individuals to maintain control over their data in an increasingly digital world.
 
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
