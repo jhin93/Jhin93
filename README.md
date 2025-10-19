@@ -2,6 +2,7 @@
 ## Software Developer
 ## Resume | [Link](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true) <- Click
 
+
 ## 🧑🏻‍💻 Work Experiences
 ### 1. CLOVirtualFashion (June 2022 ~ Jan 2025)
 #### Front-End Developer & Smart Contract Engineer
