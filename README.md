@@ -5,8 +5,8 @@
 
 
 ## 🧑🏻‍💻 Work Experiences
-### 1. CLOVirtualFashion (June 2022 ~ Jan 2025)
-#### Front-End Developer & Smart Contract Engineer
+### 1. Front-End Developer & Smart Contract Engineer
+#### CLOVirtualFashion (June 2022 ~ Jan 2025)
 
 <a href="https://connect.clo-set.com">
     <img width="1725" alt="connect-closet" src="https://github.com/user-attachments/assets/7660a7eb-7a75-467c-b83b-055571ea8120" />
@@ -21,8 +21,8 @@ Developed and implemented the 'Order' feature in the 'CONNECT' back-office platf
 #### ⛓️‍💥 Blockchain Development: 
 Modified and deployed the EC721 smart contract to issue unique NFTs for customers’ 3D artworks, strengthening copyright protection. Implemented a one-time transmission mechanism to ensure each NFT is permanently tied to the customer’s wallet, providing a verifiable record of ownership that enables customers to claim copyright even in cases of artwork theft.
 
-### 2. FEELWAY (Sep 2020 ~ April 2021)
-### UI Developer
+### 2. UI Developer
+### FEELWAY (Sep 2020 ~ April 2021)
 <a href="https://www.feelway.com/">
     <img width="1725" alt="feelway" src="https://github.com/user-attachments/assets/560e30a0-efe0-40b8-8fdf-5365e2366c81" />
 </a>  
