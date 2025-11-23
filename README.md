@@ -70,7 +70,7 @@ The project's mission is to explore and expand the diverse applications of block
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/jinkyung-kim-64a28b1b2/)
 - [Website](https://jhin93.github.io/portfolio/)
