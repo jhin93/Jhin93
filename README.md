@@ -1,9 +1,12 @@
 # Jinkyung Kim
+
 ## Software Developer
+
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/jinkyung-kim-64a28b1b2/)
 - [Website](https://jhin93.github.io/portfolio/)
 - Email: scene1993@gmail.com
+
 ## Resume | [Link](https://docs.google.com/document/d/1EtR_BgIuR5YGWbaNhD3qb_QWOWK-5vlW/edit?usp=sharing&ouid=103393084298021294479&rtpof=true&sd=true)
 
 
