@@ -1,5 +1,4 @@
 # Jinkyung Kim
-
 ## Software Developer
 
 ## 📫 Contact
