@@ -71,7 +71,7 @@ The project's mission is to explore and expand the diverse applications of block
 - Libraries & Tools: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
 - Cooperation: GitHub, Slack
 - Documentation: Jira, Confluence
-- Currently Focusing: Python, .NET
+- Currently Focusing: Golang
 
 ---
 
