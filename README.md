@@ -72,4 +72,3 @@ The project's mission is to explore and expand the diverse applications of block
 - Documentation: Jira, Confluence
 - Currently Focusing: Golang
 
-
