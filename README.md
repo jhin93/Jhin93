@@ -57,13 +57,21 @@ At Feelway, I created over 20 event landing pages, increasing user engagement by
     <img width="1726" alt="CONNECT Digital Stamp" src="https://github.com/user-attachments/assets/59a76a65-a8ad-41f1-ae32-8ef1c156e72e" />
 </a>  
 
-#### Blockchain project: 'Digital Stamp'
 'Digital Stamp' feature issues the customer's 3D artwork information as an NFT and transfers it to the customer's wallet.
 
 This blockchain feature was used to modify and deploy an ERC-721 smart contract based on a modified smart contract deployed on the 'Polygon' main network, strengthening the copyright of the artwork. The method limits the number of NFT transfers to the smart contract to 1. When transferred to the customer, the number of transfers is permanently deducted to 0 and permanently attributed to the wallet. Even if the customer's 3D artwork is stolen, the record existing as an NFT can claim copyright.
 
 ## Project Mission
 The project's mission is to explore and expand the diverse applications of blockchain technology in user experience, with a focus on enhancing the protection of personal information. I committed to developing secure, decentralized solutions that empower individuals to maintain control over their data in an increasingly digital world.
+
+### On-chain verification details
+-  Modified ERC-721 Contract: 0xeb579c015d87d2e648066d27321d16d3ae1c2176
+- Company Deployment Wallet: 0xa55BF4e73eCE4444a8196875C72796C2Db51Dd9C
+- PolygonScan: https://polygonscan.com/address/0xeb579c015d87d2e648066d27321d16d3ae1c2176
+- All 4,000+ minting, transfer, and ownership proof transactions will always be available for verification on Polygon mainnet, enabling permanent verification outside a centralized service.
+- This transparent, on-chain approach ensures that even if 3D artworks are stolen or copied, the immutable blockchain record proves original ownership and creation timestamp 
+- Monitored on-chain transactions and contract performance in the production environment with Datadog
+
 
 ## 🛠️ Skills & Technologies
 - Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
