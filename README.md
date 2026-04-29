@@ -1,6 +1,5 @@
 # Jinkyung Kim
-
-## Blockchain Software & DevOps Engineer 
+## Software & DevOps Engineer  
 ## 📫 Contact
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jinkyung-kim-64a28b1b2/)
 - Email: scene1993@gmail.com
