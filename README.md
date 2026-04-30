@@ -73,10 +73,10 @@ The project's mission is to explore and expand the diverse applications of block
 
 
 ## 🛠️ Skills & Technologies
-- Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity
+- Programming: NextJS, ReactJS, JavaScript, TypeScript, Solidity, Python, Bash
 - UI: HTML, Sass, CSS
 - Libraries & Tools: NodeJS, Postman, Datadog, Hardhat, Remix, Thirdweb
 - Cooperation: GitHub, Slack
 - Documentation: Jira, Confluence
-- Currently Focusing: Golang, Python
+- DevOps: AWS, Terraform
 
