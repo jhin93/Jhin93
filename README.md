@@ -2,7 +2,7 @@
 
 **Full-Stack / Frontend Developer** · React, TypeScript, Next.js · Python/FastAPI, Node.js · AWS
 
-Relocating to Uppsala on 15 December 2026 · **Right to work in Sweden** (EU-citizen family member, no sponsorship needed)
+Relocating to Uppsala, 15 December 2026 · **Right to work in Sweden** (EU-citizen family member, no sponsorship needed)
 
 [LinkedIn](https://www.linkedin.com/in/jinkyung-kim-64a28b1b2/) · scene1993@gmail.com
 
