@@ -2,7 +2,7 @@
 
 **Full-Stack / Frontend Developer** · React, TypeScript, Next.js · Python/FastAPI, Node.js · AWS
 
-Relocating to Stockholm in December 2026 · **Right to work in Sweden** (EU-citizen family member, no sponsorship needed)
+Relocating to Uppsala on 15 December 2026 · **Right to work in Sweden** (EU-citizen family member, no sponsorship needed)
 
 [LinkedIn](https://www.linkedin.com/in/jinkyung-kim-64a28b1b2/) · scene1993@gmail.com
 
@@ -48,7 +48,7 @@ Reported to the CEO throughout; PR code review with a fellow developer for about
 - Integrated Xero accounting data through the Xero API (OAuth 2.0), built against a Xero demo company, so any Xero user can see their books inside sfx-a.
 - Repaired, then rebuilt, the CI/CD pipeline (automated build, test and deploy); wrote an AWS cost-optimisation proposal for the EC2/RDS estate (−17.5% annual, each change rated by risk and downtime).
 
-### 2. Front-End Developer & Smart Contract Engineer
+### 2. Front-End Developer & Smart Contract Engineer (full-time)
 #### CLO Virtual Fashion · Seoul (Jun 2022 – Jan 2025)
 
 Maker of CLO and Marvelous Designer (3D garment simulation). I worked on CONNECT, CLO's 3D asset marketplace.
@@ -59,7 +59,7 @@ Maker of CLO and Marvelous Designer (3D garment simulation). I worked on CONNECT
 - Implemented the 'Order' feature in the CONNECT back-office, streamlining order-flow management and tracking.
 - Customised and deployed ERC-721 contracts on Polygon mainnet with a consume-once transfer that locks each NFT to its owner; 4,000+ NFTs issued, every mint and transfer verifiable on PolygonScan (see Digital Stamp below), via a Thirdweb/TypeScript minting layer (MetaMask/WalletConnect, IPFS metadata); production monitoring with Datadog.
 
-### 3. UI Developer
+### 3. UI Developer (full-time)
 #### Feelway · Seoul (Sep 2020 – Apr 2021)
 
 Luxury resale platform.
@@ -100,9 +100,9 @@ Digital Stamp issued a customer's 3D artwork information as an NFT and transferr
 ## 🎓 Education & Training
 
 - **University of Technology Sydney** — Master of Information Technology, Enterprise Software Development (coursework focus: networking & cybersecurity) · Feb 2025 – Oct 2026
-- **Hanyang University** — B.A. Cultural Anthropology; B.F.A. Communication Design · Mar 2013 – Feb 2019
 - **KYUNGIL Academy** — Government-funded Blockchain & Software Programme · Oct 2021 – May 2022
 - **Code States** — Front-end Engineering Bootcamp · Feb 2020 – Jul 2020
+- **Hanyang University** — B.A. Cultural Anthropology; B.F.A. Communication Design · Mar 2013 – Feb 2019
 
 ## 🌐 Languages
 
