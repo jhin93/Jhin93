@@ -39,7 +39,7 @@ Reported to the CEO throughout; PR code review with a fellow developer for about
 - Built the Next.js front-end, FastAPI back-end (AES-256-GCM encryption) and Solidity contracts with Hardhat tests; issuers record documents with email-OTP login only, verifiers need no account.
 - Provisioned AWS with Terraform (VPC, ALB, ECS Fargate Spot, ECR, RDS, Route 53) and path-filtered GitHub Actions CI with OIDC push to ECR; wrote the Go-vs-Python and EKS-vs-Fargate decision records (ADRs).
 
-**sfx-a** — financial-accounts platform (a user's accounts in one view), internship · Sep 2025 – Feb 2026  
+**SFX-A** (sfx-a.com) — financial-accounts platform (a user's accounts in one view), internship · Sep 2025 – Feb 2026  
 `Next.js` `Node.js` `Xero API` `AWS`
 
 <img width="1610" height="958" alt="sfx-a" src="https://github.com/user-attachments/assets/2f305cb1-0ed1-4d32-8de6-7c11b9467496" />
@@ -99,10 +99,10 @@ Digital Stamp issued a customer's 3D artwork information as an NFT and transferr
 
 ## 🎓 Education & Training
 
-- **University of Technology Sydney** — Master of Information Technology, Enterprise Software Development (coursework focus: networking & cybersecurity) · Feb 2025 – Oct 2026
-- **KYUNGIL Academy** — Government-funded Blockchain & Software Programme · Oct 2021 – May 2022
-- **Code States** — Front-end Engineering Bootcamp · Feb 2020 – Jul 2020
-- **Hanyang University** — B.A. Cultural Anthropology; B.F.A. Communication Design · Mar 2013 – Feb 2019
+- **University of Technology Sydney** (Sydney, Australia) — Master of Information Technology · Feb 2025 – Oct 2026
+- **KYUNGIL Academy** (Seoul, South Korea) — Government-funded Blockchain & Software Training Course · Oct 2021 – May 2022
+- **Code States** (Online) — Front-end Engineering Bootcamp · Feb 2020 – Jul 2020
+- **Hanyang University** (Ansan, South Korea) — B.A. Cultural Anthropology; B.F.A. Communication Design · Mar 2013 – Feb 2019
 
 ## 🌐 Languages
 
