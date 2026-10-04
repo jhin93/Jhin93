@@ -8,7 +8,7 @@ Relocating to Stockholm in December 2026 · **Right to work in Sweden** (EU-citi
 
 ## 🚀 About Me
 
-Full-stack developer, frontend-strong: 3+ years of full-time industry experience, mostly frontend (Next.js/TypeScript since 2022), plus a year of part-time full-stack work alongside a Master's: Python/FastAPI and Node.js back-ends, AWS/Terraform delivery and daily use of AI coding agents (Claude Code). Most recently built a two-sided catering marketplace solo for a Sydney client, from requirements to a deployed pre-launch build and handover; earlier developed the CONNECT marketplace front-end and its NFT copyright feature (4,000+ NFTs on Polygon) at CLO Virtual Fashion.
+Full-stack developer, frontend-strong: 3+ years of full-time industry experience, mostly frontend (Next.js/TypeScript since 2022), plus a year of part-time, AI-assisted full-stack work (Python/FastAPI, Node.js, AWS/Terraform, Claude Code) alongside a Master's. Has worked across five product domains and stacks from jQuery to Next.js, Solidity and FastAPI, and looks for structural weak points before adding features: business rules enforced in the back-end, a ~US$15/month host instead of a planned Kubernetes cluster, a −17.5% AWS cost proposal.
 
 > Client and company code lives in private repositories, so the links and screenshots below show the deployed builds and public on-chain records.
 
