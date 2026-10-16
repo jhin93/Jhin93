@@ -1,5 +1,6 @@
 # Jinkyung Kim
 
+
 **Full-Stack / Frontend Developer** · React, TypeScript, Next.js · Python/FastAPI, Node.js · AWS
 
 Relocating to Uppsala, 15 December 2026 · **Right to work in Sweden** (EU-citizen family member, no sponsorship needed)
